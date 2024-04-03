@@ -19,8 +19,9 @@ Tenho poucas habilidades até o momento.
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">        
 </div>
 
- ## 
-<div style="display: inline_block"><br> 
+
+ ## Github Stats
+<div style="display: inline_block">
   <img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=kaylanesantos&layout=compact&theme=radical&show_icons=true&hide=stars">
   <img align="center" width="400" height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kaylanesantos&layout=compact&theme=radical">
 </div>
